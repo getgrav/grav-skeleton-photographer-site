@@ -11,9 +11,9 @@ git:
         url: https://github.com/nunopress/grav-plugin-simple_form
         path: user/plugins/simple_form
         branch: develop    
-    twenty:
-        url: https://github.com/getgrav/grav-theme-twenty
-        path: user/themes/twenty
+    photographer:
+        url: https://github.com/getgrav/grav-theme-photographer
+        path: user/themes/photographer
         branch: develop
 links:
     problems:
@@ -28,7 +28,7 @@ links:
         src: grav-plugin-error
         path: user/plugins/error
         scm: github
-    twenty:
-        src: grav-theme-twenty
-        path: user/themes/twenty
+    photographer:
+        src: grav-theme-photographer
+        path: user/themes/photographer
         scm: github
