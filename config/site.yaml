@@ -12,21 +12,14 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - label: Twitter
-    url: "#"
-    icon: twitter
-  - label: Facebook
-    url: "#"
-    icon: facebook
-  - label: Google+
-    url: "#"
-    icon: google-plus
-  - label: Github 
-    url: "#"
-    icon: github
-  - label: Dribbble
-    url: "#"
-    icon: dribbble
+  -  url: "#"
+     icon: facebook.png
+  -  url: "#"
+     icon: gplus.png
+  -  url: "#"
+     icon: twitter.png
+  -  url: "#"
+     icon: rss.png    
 
 copyright: 
   line1: Untitled
