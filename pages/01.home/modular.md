@@ -10,10 +10,9 @@ content:
         by: default
         dir: asc
         custom:
-            - _banner
-            - _header
-            - _icons
-            - _features
+            - _slider
+            - _welcome
+            - _categories
 ---
 
 
