@@ -40,28 +40,17 @@ logo:
 
 # Main Menu
 menu:
-  - text: "Left Sidebar"
-    link: "leftsidebar"
-  - text: "Right Sidebar"
-    link: "rightsidebar" 
-  - text: "No Sidebar"
-    link: "nosidebar"
-  - text: "Contact"
-    link: "contact"  
-
-# Submenu
-submenu:
-  - text: "Dolore Sed"
-    link: "#"
-  - text: "Consequat"
+  - text: "submenu"
+    submenu:
+      - text: "info"
+        link: "#"
+      - text: "profile"
+        link: "#"  
+      - text: "news"
+        link: "#"
+        submenu:
+          - text: "fresh"
+            link: "#"
+          - text: "archive"
+            link: "#"  
     link: "#" 
-  - text: "Lorem Magna"
-    link: "#"
-  - text: "Sed Magna"
-    link: "#"  
-  - text: "Ipsum Nisl"
-    link: "#"    
-
-buttons:
-  - text: "Sign Up" 
-    link: "#"
