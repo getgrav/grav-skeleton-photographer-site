@@ -1,6 +1,6 @@
 name: Photographer Site
 version: 1.0.0
-description: "Photographer is a free and responsive theme for **Grav**. It's a port of **Free Bootstrap 3.0 Template** by Template-help.com."
+description: "Photographer is a Bootstrap 3.0 skeleton for Grav. It's a port of Free Bootstrap 3.0 Template by template-help.com.."
 icon: group
 author:
   name: Team Grav

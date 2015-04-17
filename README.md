@@ -8,11 +8,12 @@ This Grav theme is a port of the [Free Bootstrap 3.0 Template](http://livedemo00
 
 * Bootstrap 3.0
 * Photo Slider
-* Font Awesome icons
-* Various template sections
-* Social Icons
+* Photo Gallery
+* Various templates for presenting your content
+* Modular template included
 * Simple Form Support
-* Gallery
+* 2 Level custom menu
+* Social Icons
 
 ## Basic Setup for a new Grav site
 
