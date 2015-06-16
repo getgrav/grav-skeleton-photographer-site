@@ -1,9 +1,9 @@
-title: Twenty
+title: Photographer
 author:
   name: Joe Bloggs
   email: 'joe@test.com'
 metadata:
-    description: 'Twenty is a free and responsive theme for **Grav**. Its a port of Twenty template by HTML5 UP.'
+    description: 'Bootstrap 3.0 template by Template-help.com, ported to Grav.'
     
 # Site settings
 title: Awesome Title
@@ -28,7 +28,7 @@ copyright:
   url_label: HTML5 UP
     
 logo:
-  text1: "Twenty"
+  text1: "Photographer"
   text2: "by HTML5 UP"
 
 # Main Menu
