@@ -1,3 +1,10 @@
+# v1.0.2
+## 09/16/2015
+
+1. [](#improved)
+    * Moved images displayed on homepage from theme to page
+    * Updated forms to work better with latest simple_form release
+
 # v1.0.1
 ## 06/16/2015
 
