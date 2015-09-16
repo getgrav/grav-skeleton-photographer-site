@@ -10,50 +10,7 @@ hiretitle: Hire Me Now
 simple_form:
   token: "token-by-simpleform"
   template_file: "hire"
-
-  fields:
-      name:
-        type: "text"
-        title: "Name"
-        default: ""
-        placeholder: "Name"
-        class: ""
-        required: true
-      email:
-        type: "email"
-        title: "Email"
-        default: ""
-        placeholder: "E-mail"
-        class: ""
-        required: true
-      phone:
-        type: "text"
-        title: "Phone"
-        default: ""
-        placeholder: "Phone"
-        class: ""
-        required: false
-      fax:
-        type: "text"
-        title: "Fax"
-        default: ""
-        placeholder: "Fax"
-        class: ""
-        required: false  
-      comments:
-        type: "textarea"
-        title: "Comments"
-        default: ""
-        placeholder: "Comments"
-        class: ""
-        required: true
-      submit:
-        type: "submit"
-        title: "submit"
-        default: ""
-        class: "btn-link btn-link2"
-  messages:
-      success: "Your message has been sent."
+  redirect_to: /thank-you-for-hire-me
 
 ---
 
