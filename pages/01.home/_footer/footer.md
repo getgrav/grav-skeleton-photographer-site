@@ -26,7 +26,7 @@ services:
     url: "#"  
 locations:
   title: Locations
-  logo: smalllogo1.png
+  logo: smalllogo.png
   text: 28 Jackson Blvd Ste 1020<br>Chicago<br>IL 60604-2340
   email: info@demolink.org
 
