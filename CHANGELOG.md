@@ -1,3 +1,9 @@
+# v1.0.3
+## 09/16/2015
+
+1. [](#improved)
+    * Updated for new version of simple_form (Pereira Ricardo)
+
 # v1.0.2
 ## 09/16/2015
 
