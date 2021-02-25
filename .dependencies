@@ -3,6 +3,10 @@ git:
         url: https://github.com/getgrav/grav-plugin-problems
         path: user/plugins/problems
         branch: master
+    form:
+        url: https://github.com/getgrav/grav-plugin-form
+        path: user/plugins/form
+        branch: master
     error:
         url: https://github.com/getgrav/grav-plugin-error
         path: user/plugins/error
@@ -16,9 +20,9 @@ links:
         src: grav-plugin-problems
         path: user/plugins/problems
         scm: github
-    error:
-        src: grav-plugin-error
-        path: user/plugins/error
+    form:
+        src: grav-plugin-form
+        path: user/plugins/form
         scm: github
     photographer:
         src: grav-theme-photographer
