@@ -7,10 +7,6 @@ git:
         url: https://github.com/getgrav/grav-plugin-error
         path: user/plugins/error
         branch: master
-    simple_form:
-        url: https://github.com/nunopress/grav-plugin-simple_form
-        path: user/plugins/simple_form
-        branch: master    
     photographer:
         url: https://github.com/getgrav/grav-theme-photographer
         path: user/themes/photographer
@@ -20,10 +16,6 @@ links:
         src: grav-plugin-problems
         path: user/plugins/problems
         scm: github
-    simple_form:
-        src: grav-plugin-simple_form
-        path: user/plugins/simple_form
-        scm: github    
     error:
         src: grav-plugin-error
         path: user/plugins/error
